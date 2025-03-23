@@ -1,2 +1,0 @@
-jawajawajawajawajawajawajawajawajawajawajawajawajawajawajawajawajawajawajawajawajawajawajawajawajawajawajawajawajawajawajawajawa
--kobo kaneru
