@@ -1,0 +1,2 @@
+C:\Users\aminu\OneDrive\Documents\GitHub\ProSubHelper\Helper3.0\bin\Release\net8.0\win-x64\publish\Helper3.0.pdb
+C:\Users\aminu\OneDrive\Documents\GitHub\ProSubHelper\Helper3.0\bin\Release\net8.0\win-x64\publish\Helper3.0.exe

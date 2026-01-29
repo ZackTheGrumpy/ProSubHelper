@@ -1,0 +1,5 @@
+C:\Users\aminu\OneDrive\Documents\GitHub\ProSubHelper\Helper3.0\obj\Debug\net10.0\Helper3.0.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aminu\OneDrive\Documents\GitHub\ProSubHelper\Helper3.0\obj\Debug\net10.0\Helper3.0.AssemblyInfoInputs.cache
+C:\Users\aminu\OneDrive\Documents\GitHub\ProSubHelper\Helper3.0\obj\Debug\net10.0\Helper3.0.AssemblyInfo.cs
+C:\Users\aminu\OneDrive\Documents\GitHub\ProSubHelper\Helper3.0\obj\Debug\net10.0\Helper3.0.csproj.CoreCompileInputs.cache
+C:\Users\aminu\OneDrive\Documents\GitHub\ProSubHelper\Helper3.0\obj\Debug\net10.0\Helper3.0.sourcelink.json
